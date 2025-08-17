@@ -17,6 +17,11 @@ While studying Frontend, I became curious about the backend side of things, so I
 - **OS**: Ubuntu (my go-to Linux distribution)
 - **Desktop Environment**: GNOME (tried KDE but found it overwhelming)
 - **Editor**: Neovim with LazyVim template + custom tweaks (mostly Prettier configuration)
+- **Rust-based CLI Tools**: I've embraced several Rust-powered tools that enhance my workflow:
+  - `bottom` - system monitor
+  - `ripgrep` - lightning-fast search
+  - `bat` - enhanced cat with syntax highlighting
+  - And other modern CLI alternatives
 
 I enjoy slowly but surely discovering new Neovim features and optimizing my development workflow.
 
