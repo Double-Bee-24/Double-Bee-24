@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Double-Bee-24&layout=compact)
-
 ## 🚀 My Programming Journey
 
 My adventure in the programming world began with a **computer science course**, where I started by writing instructions for Karel the robot 🤖. This foundation introduced me to essential concepts like functions, variables, data types, and object-oriented programming basics.
@@ -24,6 +22,8 @@ I enjoy slowly but surely discovering new Neovim features and optimizing my deve
 
 ### 📝 **Language Preference**
 I prefer **TypeScript** over JavaScript for its static typing capabilities. Dynamic JavaScript just isn't my cup of tea, so TypeScript has been my faithful companion throughout most of my development journey.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Double-Bee-24&layout=compact)
 
 ---
 
