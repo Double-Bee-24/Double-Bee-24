@@ -20,7 +20,7 @@ While studying Frontend, I became curious about the backend side of things, so I
 - **Rust-based CLI Tools**: I've embraced several Rust-powered tools that enhance my workflow:
   - `bottom` - system monitor
   - `ripgrep` - lightning-fast search
-  - `bat` - enhanced cat with syntax highlighting
+  - `eza` - modern ls replacement with colors and icons
   - And other modern CLI alternatives
 
 I enjoy slowly but surely discovering new Neovim features and optimizing my development workflow.
