@@ -16,7 +16,7 @@ While studying Frontend, I became curious about the backend side of things, so I
 ### 🐧 **Linux & Development Environment**
 - **OS**: Ubuntu (my go-to Linux distribution)
 - **Desktop Environment**: GNOME (tried KDE but found it overwhelming)
-- **Editor**: Neovim with LazyVim template + custom tweaks (mostly Prettier configuration)
+- **Editor**: Neovim. Here you can see [my config](https://github.com/Double-Bee-24/my_nvim_config)
 - **Rust-based CLI Tools**: I've embraced several Rust-powered tools that enhance my workflow:
   - `bottom` - system monitor
   - `ripgrep` - lightning-fast search
